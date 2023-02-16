@@ -4,7 +4,7 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 ❓ FAQ (OPTIONAL)
-Add at least 2 questions new developers would ask when they decide to use your project.
+2 questions new developers would ask when they decide to use this project.
 [Question_1]
 Why was this project created
 
