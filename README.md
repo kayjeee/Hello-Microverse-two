@@ -32,6 +32,7 @@ After you're finished please remove all the comments and instructions!
 
 - [📖 About the Project](#about-project)
 - [💻Getting started](#getting-Started)
+  - [Setup](#setup)
 - [Tech Stack](#tech-stack)
 - [👥 Authors](#authors)
 - [📝 License](#license)
@@ -53,6 +54,10 @@ Easy to understand README,
 If stuck on the first activity of Microverse program 
 check out this project for inspiration.
 
+### Setup
+
+Clone this repository to your desired folder do :
+git clone git@github.com:kayjeee/Hello-Microverse-two.git
 
 ### Tech Stack <a name="tech-stack">Html,CSS,Javascript</a>
 
