@@ -2,3 +2,5 @@ node_modules
 
 # ignore ALL .log files
 *.md
+
+test.md
