@@ -81,9 +81,9 @@ Easy to understand README,
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/kayjeee)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kagiso-sebogodi/)
+- GitHub: [@kayjeee](https://github.com/kayjeee)
+- Twitter: [@schoolspun](https://twitter.com/schoolspun))
+- LinkedIn: [kagiso-sebogodi](https://www.linkedin.com/in/kagiso-sebogodi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
