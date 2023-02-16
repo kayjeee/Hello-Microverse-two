@@ -83,7 +83,7 @@ Easy to understand README,
 
 - GitHub: [@kayjeee](https://github.com/kayjeee)
 - Twitter: [@schoolspun](https://twitter.com/schoolspun))
-- LinkedIn: [kagiso-sebogodi](https://www.linkedin.com/in/kagiso-sebogodi/)
+- LinkedIn: [@kagiso-sebogodi](https://www.linkedin.com/in/kagiso-sebogodi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
