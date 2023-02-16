@@ -31,6 +31,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- [💻Getting started](#getting-Started)
 - [Tech Stack](#tech-stack)
 - [👥 Authors](#authors)
 - [📝 License](#license)
@@ -47,6 +48,10 @@ Easy to understand README,
  pull requests in GitHub.
  Version control
 
+
+# 💻 Getting Started <a name="getting-Started"></a>
+If stuck on the first activity of Microverse program 
+check out this project for inspiration.
 
 
 ### Tech Stack <a name="tech-stack">Html,CSS,Javascript</a>
