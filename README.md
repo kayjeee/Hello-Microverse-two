@@ -56,7 +56,8 @@ check out this project for inspiration.
 
 ### Setup
 
-Clone this repository to your desired folder do 
+Clone this repository to your desired folder do:
+
 git clone git@github.com:kayjeee/Hello-Microverse-two.git
 
 ### Tech Stack <a name="tech-stack">Html,CSS,Javascript</a>
