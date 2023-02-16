@@ -50,7 +50,7 @@ Easy to understand README,
 
 
 # 💻 Getting Started <a name="getting-Started"></a>
-If stuck on the first activity of miicro-verse program 
+If stuck on the first activity of Microverse program 
 check out this project for inspiration.
 
 
