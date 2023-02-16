@@ -50,9 +50,9 @@ Easy to understand README,
 
 
 # 💻 Getting Started <a name="getting-Started"></a>
-Describe how a new developer could make use of your project.
+If stuck on the first activity of miicro-verse program 
+check out this project for inspiration.
 
-To get a local copy up and running, follow these steps.
 
 ### Tech Stack <a name="tech-stack">Html,CSS,Javascript</a>
 
