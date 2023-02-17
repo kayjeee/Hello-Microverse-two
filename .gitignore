@@ -1,6 +1,4 @@
-node_modules
-
-# ignore ALL .log files
-*.md
-
+node_modules/
 test.md
+package-lock.json
+package.json
