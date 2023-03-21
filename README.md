@@ -50,7 +50,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 Hello-Microverse <a name="about-project"></a>
 
 
-**Hello-Microverse** is a simple activity on the Microvese Program,
+**Hello-Microverse** is a simple activity on the Microvese Program love it,
 with with different base branches.
 Easy to understand README, 
  Followed GitHub flow,
